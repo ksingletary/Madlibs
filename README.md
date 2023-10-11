@@ -1,5 +1,5 @@
 # Madlibs
-Madlib exercise using Jinja!
+Madlib exercise using Flask and Jinja!
 
 ## Flask Madlibs Exercise
 
